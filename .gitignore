@@ -1,3 +1,4 @@
 tokenfile.txt
 logs
 old_ctfs
+__pycache__
